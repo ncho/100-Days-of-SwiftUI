@@ -47,3 +47,7 @@ avanderlee.com
 Playgrounds and Unwrap app
 
 _Watched most of video; then finished by reading the article._
+
+## Day 1
+
+2025-01-31
