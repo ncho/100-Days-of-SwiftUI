@@ -57,3 +57,5 @@ SwiftUI is a framework. Behind SwiftUI is Swift, "a powerful, flexible, and mode
 > Swift itself is just the language, and isn't designed to draw anything on the screen. When it comes to building software with Swift, you’ll be using SwiftUI: Apple’s powerful framework that creates text, buttons, images, user interaction, and much more.
 
 Prefer to use constants rather than variables
+
+Good examples of constants: pi and max score in a game
