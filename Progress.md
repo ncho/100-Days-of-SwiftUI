@@ -59,3 +59,7 @@ SwiftUI is a framework. Behind SwiftUI is Swift, "a powerful, flexible, and mode
 Prefer to use constants rather than variables
 
 Good examples of constants: pi and max score in a game
+
+Summary: Introduction, variables and constants, strings, whole numbers (integers), decimal numbers (floating-point numbers)
+
+Compound assignment operators; type safety
