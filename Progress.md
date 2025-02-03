@@ -83,3 +83,21 @@ let FahrenheitTemperature = ((celciusTemperature * 9) / 5) + 32
 print("\(celciusTemperature)° Celsius is equal to \(FahrenheitTemperature)° Fahrenheit.")
 // User \(someVariable) to activate string interpolation.
 ```
+
+## Day 3
+
+2025-02-03
+
+Simple data types were relatively straightforward. I didn't know about string interpolation. Complex data types will probably be harder, because this is where I got stuck in my JavaScript book. 
+
+Swift needs to always know what type an array is holding; if an initial value is provided, Swift will figure it out for itself.
+
+```
+let employee2 = [
+    "name": "Son Heung Min",
+    "position": "Winger", 
+    "team": "Tottenham Hotspur"
+]
+```
+
+enum, enumeration
