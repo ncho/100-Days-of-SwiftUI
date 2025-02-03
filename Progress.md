@@ -63,3 +63,7 @@ Good examples of constants: pi and max score in a game
 Summary: Introduction, variables and constants, strings, whole numbers (integers), decimal numbers (floating-point numbers)
 
 Compound assignment operators; type safety
+
+## Day 2
+
+2025-02-03
