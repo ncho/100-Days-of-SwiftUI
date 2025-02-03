@@ -67,3 +67,19 @@ Compound assignment operators; type safety
 ## Day 2
 
 2025-02-03
+
+George Boole
+
+>  if you call toggle() on a Boolean it will flip a true value to false, and a false value to true.
+
+Operator overloading; Ability of `+` to do different things depending on how it's used. 
+
+Constants using `let`; variables using `var`. Prefer the former because they can't change. 
+
+```
+let celciusTemperature = 100.0
+let FahrenheitTemperature = ((celciusTemperature * 9) / 5) + 32
+
+print("\(celciusTemperature)° Celsius is equal to \(FahrenheitTemperature)° Fahrenheit.")
+// User \(someVariable) to activate string interpolation.
+```
