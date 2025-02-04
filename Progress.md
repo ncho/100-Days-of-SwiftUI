@@ -101,3 +101,7 @@ let employee2 = [
 ```
 
 enum, enumeration
+
+## Day 4
+
+2025-02-04
