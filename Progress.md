@@ -105,3 +105,23 @@ enum, enumeration
 ## Day 4
 
 2025-02-04
+
+Type annotations
+
+Overriding the default type, or you don't want to assign a type just yet
+
+Type inference
+
+```
+// Checkpoint 2
+
+// Create an array of strings, prints the number of items in the array and also the number of unique items in the array
+
+let arrayOfStrings: [String] = ["a", "b", "c", "a", "b", "c"]
+print("There are \(arrayOfStrings.count) items in `arrayOfStrings`.")
+let set = Set(arrayOfStrings)
+print("There are \(set.count) unique items in `arrayOfStrings`: \(set).")
+// Duplicates are discarded when a set is created from an array
+// This is how I got tripped up in the test questions
+// "Remember, the set will automatically remove any duplicate values, and it won’t remember the exact order that was used in the array."
+```
