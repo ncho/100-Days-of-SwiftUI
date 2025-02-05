@@ -125,3 +125,7 @@ print("There are \(set.count) unique items in `arrayOfStrings`: \(set).")
 // This is how I got tripped up in the test questions
 // "Remember, the set will automatically remove any duplicate values, and it won’t remember the exact order that was used in the array."
 ```
+
+## Day 5
+
+2025-02-05
