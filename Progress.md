@@ -133,3 +133,7 @@ print("There are \(set.count) unique items in `arrayOfStrings`: \(set).")
 Conditions
 
 2025-02-07
+
+I'm slowly getting past the point where I got stuck studying JavaScript. Which is to say… I'm not very far at all, but I'm making progress. 
+
+The mini tests are really helpful. One of the difficulties with the JavaScript book having to read and digest a lot of content with exercises then presented at the end of a chapter. 
