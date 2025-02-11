@@ -180,3 +180,13 @@ Loops
 7.5
 10
 12.5
+
+`if`, `else`, and `else if`
+`||` is "or", `&&` is "and"
+`switch`
+ternary conditional operator for checking WTF: What?, True, False
+`for` loops let us loop over arrays, sets, dictionaries, and ranges
+`while` loops create loops that continue running until a condition is false
+loop items can be skipped using `continue` or `break`
+
+FizzBuzz
