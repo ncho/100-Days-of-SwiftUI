@@ -137,3 +137,46 @@ Conditions
 I'm slowly getting past the point where I got stuck studying JavaScript. Which is to say… I'm not very far at all, but I'm making progress. 
 
 The mini tests are really helpful. One of the difficulties with the JavaScript book having to read and digest a lot of content with exercises then presented at the end of a chapter. 
+
+## Day 6
+
+2025-02-10
+
+Loops
+
+2
+4
+8
+16
+32
+64
+
+0
+
+100
+200
+300
+400
+500
+
+8
+6
+4
+2
+
+8
+6
+4
+2
+0
+
+5 
+4
+3
+2
+1
+
+5
+7.5
+10
+12.5
